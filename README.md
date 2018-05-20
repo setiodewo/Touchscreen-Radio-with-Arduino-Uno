@@ -17,4 +17,9 @@ Si4703 wiring:
 
 Please change SI4703.cpp --> resetPin to 0 (originally 2)
 
+The detail can be read on my blog: https://dewo.wordpress.com/2018/05/01/touchscreen-radio-clock-with-arduino-uno-source-code/
+
+The demo video can be watch at youtube:
+https://www.youtube.com/watch?v=M0x0-A1TMFE
+
 Unfortunately the RAM of UNO is not enough for this project to add alarm functionalities. Perhaps I will use Arduino Mega in the future.
